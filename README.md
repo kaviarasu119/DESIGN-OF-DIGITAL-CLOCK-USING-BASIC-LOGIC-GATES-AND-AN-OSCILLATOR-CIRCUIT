@@ -32,3 +32,4 @@ To design and implement a digital clock circuit using an oscillator as the time-
 ![RESULT](https://github.com/user-attachments/assets/e0766eed-8ec8-49d0-bccb-955f6f2249ed)
 
 
+
